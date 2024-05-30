@@ -1,1 +1,1 @@
-sytle
+style
